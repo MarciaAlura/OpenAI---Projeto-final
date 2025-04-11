@@ -1,0 +1,9 @@
+Recomendação: 
+
+1. Notificar Cliente: Contatar o cliente para verificar se a transação foi feita por ele mesmo. O valor elevado e o produto atípico podem indicar uma atividade suspeita, como a compra de artigos esportivos por um valor de R$1103,00.
+
+2. Acionar setor Anti-Fraude: Com base no status de 'Possível Fraude', é recomendado que o setor Anti-Fraude seja acionado para uma análise detalhada da transação e das atividades recentes do cartão. Verificar se há outras transações suspeitas ou padrões de gastos incomuns.
+
+3. Realizar Verificação Manual: Realizar uma verificação manual da transação, incluindo a revisão do histórico de transações do cliente, localização de onde a compra foi feita e os detalhes do produto adquirido. O fato de a transação ter sido realizada em Porto Alegre - RS (Brasil) pode ser relevante se isso estiver fora do padrão habitual do titular do cartão.
+
+Classificação de Fraude: Com base nas informações disponíveis, esta transação pode ser classificada como "Fraude de Cartão de Crédito" devido a sinais suspeitos como o valor elevado da transação e o tipo de produto comprado. No entanto, uma investigação mais aprofundada é necessária para confirmar a natureza exata da fraude.
